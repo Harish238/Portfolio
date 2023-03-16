@@ -12,3 +12,5 @@
   - add great vibes to tailwind config
 
 - add assets
+
+link : https://earnest-kitsune-02efcd.netlify.app/
